@@ -1,29 +1,70 @@
-<h1 align="center">Hi 👋, I'm Sarthak Sharma</h1>
-# 💫 About Me:
-I'm a Software Engineer and a Frontend developer
+<h1 align="center">Hi, I'm Sarthak Sharma 👋</h1>
 
+<p align="center">Software Engineer | Frontend Developer</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sarthak_sharma39) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sarthak-sharma-33620219b) 
+<div align="center">
+  <a href="https://instagram.com/sarthak_sharma39">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://linkedin.com/in/sarthak-sharma-33620219b">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat-square&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat-square&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat-square&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sarthaksharma39&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sarthaksharma39&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthaksharma39&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<h2 align="center">Tech Stack</h2>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sarthaksharma39&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+<p align="center">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React">
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
+  <img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop">
+  <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat-square&logo=Adobe%20Lightroom&logoColor=white" alt="Adobe Lightroom">
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="Adobe Premiere Pro">
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white" alt="Canva">
+  <img src="https://img.shields.io/badge/Git-fc6d26?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sarthaksharma39&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sarthaksharma39&limit=5&theme=radical&combine_all_yearly_contributions=true)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarthaksharma39&theme=radical&hide_border=true" alt="GitHub Streak">
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=sarthaksharma39&icon=3&color=11)](https://visitcount.itsvg.in)
+<h2 align="center">GitHub Trophies</h2>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sarthaksharma39&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies">
+</div>
+
+<h2 align="center">Random Dev Quote</h2>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" alt="Random Dev Quote">
+</div>
+
+<h2 align="center">Top Contributed Repo</h2>
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=sarthaksharma39&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
+</div>
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=sarthaksharma39&icon=3&color=11" alt="Profile Views">
+  </a>
+</p>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--

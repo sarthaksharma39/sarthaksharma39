@@ -13,7 +13,7 @@
 
 <h2 align="center">Tech Stack</h2>
 <div align="center">
-  <img src="https://i.gifer.com/Dfrz.gif" alt="Techy GIF">
+  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
 </div>
 
 <p align="center">

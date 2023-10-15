@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Sarthak Sharma 👋</h1>
 
-<p align="center">Software Engineer | Frontend Developer</p>
+<h2 align="center" >Software Engineer | Frontend Developer</h2>
 <div align="center">
   <img src="https://media.giphy.com/media/IwTWTsUzmIicM/giphy.gif" height="250" />
 </div>

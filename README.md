@@ -12,6 +12,9 @@
 </div>
 
 <h2 align="center">Tech Stack</h2>
+<div align="center">
+  <img src="https://media.giphy.com/media/l2SpXf4fE2LYc9N04/giphy.gif" alt="Techy GIF">
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white" alt="C">
